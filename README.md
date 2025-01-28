@@ -1,6 +1,6 @@
 # Actividades-sostenibles
 
-![Actividades-sostenibles](img/)
+![Actividades-sostenibles](img/actSost.jpg)
 
 ### Índice
 
